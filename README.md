@@ -22,9 +22,17 @@ The objective of this project is to analyze consumer behavior using smart device
 
 The data for this case study comes from the [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit), a publicly available dataset on Kaggle. It contains detailed fitness tracker information from 30 Fitbit users, all of whom consented to share their personal tracker data. The dataset will be imported into RStudio for cleaning, filtering, and analysis to extract actionable insights.
 
-
-
 ### Limitations
+
+* Small sample size: The dataset originally included 30 users, but after cleaning, only 24 had complete records, limiting the ability to generalize findings to the broader smart device consumer population.
+
+* Non-representative users: The sample may not reflect diversity in age, gender, physical activity habits, or geographic location.
+
+* Potential behavior bias: Users who consented to share their data may behave differently from the general population.
+
+* Limited to Fitbit devices: The data comes solely from Fitbit, so trends may not fully apply to other smart devices or Bellabeat products.
+
+* Lack of additional context: The dataset does not include broader demographic or lifestyle variables, restricting analysis of factors influencing device usage.
 
 
 ## **2. Data import and preparation**
