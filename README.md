@@ -36,7 +36,7 @@ The data for this case study comes from the [Fitbit Fitness Tracker Data](https:
 
 
 ## **2. Data import and preparation**
-* Three datasets were initially loaded (daily activity, sleep, and weight).
+* Three datasets were initially loaded: dailyActivity_merged, sleepDay_merged, and weightLogInfo.
 * While daily activity was imported successfully, sleep and weight contained blank cells that required them to be uploaded as strings.
 * Their columns were later reconfigured and cleaned through SQL queries.
 
