@@ -4,12 +4,17 @@ This project was developed as part of the Google Data Analytics Capstone, with t
 
 The analysis was performed in BigQuery and Tableau, following a structured end-to-end process:
 
-1. Data import and preparation:
+Background Information
+Business Task
+About the Data
+Limitations
+
+2. Data import and preparation:
 * Three datasets were initially loaded (daily activity, sleep, and weight).
 * While daily activity was imported successfully, sleep and weight contained blank cells that required them to be uploaded as strings.
 * Their columns were later reconfigured and cleaned through SQL queries.
 
-2. Data cleaning and transformation:
+3. Data cleaning and transformation:
 
 * Created views to organize columns and round numeric values.
 
@@ -17,7 +22,7 @@ The analysis was performed in BigQuery and Tableau, following a structured end-t
 
 * Merged the daily activity and sleep datasets for integrated analysis.
 
-3. Feature creation and analysis:
+4. Feature creation and analysis:
 
 * Categorized activity levels based on minutes of activity.
 
@@ -29,7 +34,7 @@ The analysis was performed in BigQuery and Tableau, following a structured end-t
 
 * Evaluated average sleep duration, which was found to be below the recommended threshold.
 
-4. Data visualization:
+5. Data visualization:
 
 Interactive charts were developed in Tableau to summarize insights:
 
@@ -41,5 +46,8 @@ Interactive charts were developed in Tableau to summarize insights:
 
 * Bar chart: average steps by weekday.
 
-5. Key findings:
+6. Key findings:
 Participants tend to have lower-than-recommended sleep duration and high sedentary behavior, while users exceeding 7,500 daily steps showed better overall wellness patterns. These insights can guide Bellabeat in designing personalized activity and sleep recommendations.
+
+
+
