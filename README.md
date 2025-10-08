@@ -11,9 +11,21 @@ The analysis was performed in BigQuery and Tableau, following a structured end-t
 5. [Data visualization](#5-data-visualization)
 
 ## **1. Background Information**
+
+Bellabeat, a manufacturer of health-focused tech products for women, is a small company with potential to expand in the global smart device market. Co-founder and Chief Creative Officer Urška Sršen believes analyzing activity data from their devices could reveal growth opportunities. The goal of this analysis is to examine the usage of one smart product to gain insights into consumer behavior, which will then guide the company’s marketing strategy.
+
 ### Business Task
+
+The objective of this project is to analyze consumer behavior using smart device data to identify actionable insights for Bellabeat. By examining usage patterns and trends from both non-Bellabeat and Bellabeat devices, the analysis aims to uncover opportunities to enhance user engagement and inform marketing strategy. Key deliverables include a detailed assessment of usage trends, visualizations highlighting user behavior, and high-level recommendations to optimize product positioning and marketing initiatives.
+
 ### About the Data
+
+The data for this case study comes from the [Fitbit Fitness Tracker Data](https://www.kaggle.com/datasets/arashnic/fitbit), a publicly available dataset on Kaggle. It contains detailed fitness tracker information from 30 Fitbit users, all of whom consented to share their personal tracker data. The dataset will be imported into RStudio for cleaning, filtering, and analysis to extract actionable insights.
+
+
+
 ### Limitations
+
 
 ## **2. Data import and preparation**
 * Three datasets were initially loaded (daily activity, sleep, and weight).
