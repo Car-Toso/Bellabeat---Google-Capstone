@@ -1,4 +1,4 @@
-# Bellabeat---Capstone-Project-Google-Data-Analytics-Certificate
+# Bellabeat – Google Data Analytics Capstone
 
 This project was developed as part of the Google Data Analytics Capstone, with the objective of uncovering insights from smart device usage data to support Bellabeat’s mission of promoting women’s wellness.
 
