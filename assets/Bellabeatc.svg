@@ -26,7 +26,7 @@
 </defs>
 <style>
 #Bellabeatc {
-	animation: heartbeat 0.5s 10s infinite both;
+	animation: heartbeat 10s 1s infinite both;
 }
 
 /* ----------------------------------------------
