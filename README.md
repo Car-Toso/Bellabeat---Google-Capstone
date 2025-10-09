@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/Car-Toso/Bellabeat---Google-Capstone">
+    <img src="assets/Bellabeatc.svg" alt="Bellabeat Logo" width="300"/>
+  </a>
+</p>
+
+
 # **Bellabeat – Google Data Analytics Capstone**
 
 This project was developed as part of the Google Data Analytics Capstone, with the objective of uncovering insights from smart device usage data to support Bellabeat’s mission of promoting women’s wellness.
