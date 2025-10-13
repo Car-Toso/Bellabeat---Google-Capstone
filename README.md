@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Car-Toso/Bellabeat---Google-Capstone">
-    <img src="assets/Bellabeatc.svg" alt="Bellabeat Logo" width="300"/>
+    <img src="Assets/Bellabeatc.svg" alt="Bellabeat Logo" width="300"/>
   </a>
 </p>
 
