@@ -79,7 +79,7 @@ This process included:
 
 * Categorized activity levels based on minutes of activity.
 
-* Calculated the average steps per user, identifying those above the 7,500-step daily goal.
+* Calculated the average steps per user, identifying those above the 8000 and 10000 steps daily goal.
 
 * Measured average sedentary minutes — a key metric that should be reduced.
 
@@ -177,7 +177,7 @@ Interactive charts were developed in Tableau to summarize insights:
 
     * **32% of activity records** are classified as sedentary, indicating that a significant portion of logged activity is low-intensity.
 
-2. High User Proportion (Donut Chart) 📊
+2. High User Proportion - Donut Chart 📊
 
     * **93.51% of users** are classified as high users, suggesting that most users are consistently engaging with the tracker.
 
