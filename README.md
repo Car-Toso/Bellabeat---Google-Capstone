@@ -98,7 +98,7 @@ Interactive charts were developed in Tableau to summarize insights:
 * Purpose: Show the distribution of users according to their daily activity level, highlighting the proportion of sedentary versus highly active users.
 
 <p align="center">
-  <img src="assets/ActivityVsTotalSteps.jpg" alt="Dashboard Bellabeat" width="600">
+  <img src="Assets/ActivityVsTotalSteps.jpg" alt="Dashboard Bellabeat" width="600">
 </p>
 
 
@@ -109,7 +109,7 @@ Interactive charts were developed in Tableau to summarize insights:
 * Axis: Not applicable
 * Purpose: Visualize what percentage of users use the app frequently, moderately, or rarely, emphasizing the most engaged users.
 <p align="center">
-  <img src="assets/UseApp.jpg" alt="Dashboard Bellabeat" width="400"/>
+  <img src="Assets/UseApp.jpg" alt="Dashboard Bellabeat" width="400"/>
 </p>
 
 
@@ -121,7 +121,7 @@ Interactive charts were developed in Tableau to summarize insights:
 * Purpose: Analyze how physical activity and sleep duration vary by day of the week, identifying weekly patterns among users.
 
 <p align="center">
-  <img src="assets/AvgStepsAndMinutesSleepVsWeeday.jpg" alt="Dashboard Bellabeat" width="600"/>
+  <img src="Assets/AvgStepsAndMinutesSleepVsWeeday.jpg" alt="Dashboard Bellabeat" width="600"/>
 </p>
 
 ### 4- Average Total Steps vs. Time in Bed – Combined Bar & Line Chart
@@ -133,7 +133,7 @@ Interactive charts were developed in Tableau to summarize insights:
 * Purpose: Compare daily physical activity and sleep duration simultaneously, allowing observation of trends and potential correlations between steps and time in bed.
 
 <p align="center">
-  <img src="assets/AvgStepsVsDay.jpg" alt="Dashboard Bellabeat" width="800"/>
+  <img src="Assets/AvgStepsVsDay.jpg" alt="Dashboard Bellabeat" width="800"/>
 </p>
 
 
@@ -146,7 +146,7 @@ Interactive charts were developed in Tableau to summarize insights:
 * Insight: Highlights variability in activity levels across users and helps detect outliers or patterns of consistent activity.
 
 <p align="center">
-  <img src="assets/AvgStepsVsUsers.jpg" alt="Dashboard Bellabeat" width="600"/>
+  <img src="Assets/AvgStepsVsUsers.jpg" alt="Dashboard Bellabeat" width="600"/>
 </p>
 
 ### 6- Lightly, Fairly, and Very Active Minutes vs. Weekday – Grouped Bar Chart
@@ -157,7 +157,7 @@ Interactive charts were developed in Tableau to summarize insights:
 * Purpose: Compare different activity intensities throughout the week, showing how users distribute their active minutes across days.
 * Insight: Helps identify trends in activity intensity by day and assess which days have higher or lower engagement in physical activity.
 <p align="center">
-  <img src="assets/ActivityVsWeekday.jpg" alt="Dashboard Bellabeat" width="400"/>
+  <img src="Assets/ActivityVsWeekday.jpg" alt="Dashboard Bellabeat" width="400"/>
 </p>
 
 
@@ -205,27 +205,27 @@ Interactive charts were developed in Tableau to summarize insights:
 
 ## **7 Recommendations Based on Key Findings**
 
-1. Increase Data Sample Size
+1. Increase Data Sample Size 📊
 
     * The current dataset includes only 33 users, which limits the ability to generalize insights.
 
     * Collecting data from more users over longer periods would improve the reliability of conclusions and allow detection of more nuanced patterns.
 
-2. Encourage Daily Activity
+2. Encourage Daily Activity 🚶‍♂️🏃‍♀️
 
     * Since 32% of activity records are sedentary and less than half of users meet the 8,000–10,000 step thresholds, consider strategies to motivate users to increase daily steps, such as personalized reminders, challenges, or gamification.
 
-3. Promote Consistent Sleep
+3. Promote Consistent Sleep 😴🛌
 
     * Average sleep is below 8 hours every day. Recommendations could include tips for better sleep routines or integrating sleep reminders based on activity levels.
 
-4. Leverage Positive Activity Patterns
+4. Leverage Positive Activity Patterns 🎉📈
 
     * Users are more lightly active on Fridays and Saturdays and tend to sleep more after highly active days.
 
     * Wellness programs could encourage weekend activities and personalized guidance on balancing activity and rest throughout the week.
 
-5. Personalized Engagement Opportunities
+5. Personalized Engagement Opportunities 🧩💡
 
     * Given that some users are highly active while others are not, segmenting users based on activity levels could help provide tailored recommendations for both activity and recovery.
 
