@@ -175,59 +175,59 @@ Interactive charts were developed in Tableau to summarize insights:
 
 ## **7. Key findings**⭐
 
-1. Activity Level vs % of Total Steps 🏃‍♂️
+1. Activity Level vs % of Total Steps
 
     * **32% of activity records** are classified as sedentary, indicating that a significant portion of logged activity is low-intensity.
 
-2. High User Proportion - Donut Chart 📊
+2. High User Proportion - Donut Chart
 
     * **93.51% of users** are classified as high users, suggesting that most users are consistently engaging with the tracker.
 
-3. Average Total Steps & Average Sleep Minutes vs Weekday ⏱️💤
+3. Average Total Steps & Average Sleep Minutes vs Weekday
 
     * Only **2 days exceed the minimum 8,000 steps suggested** by research for health benefits.
     * **None reach the recently popular 10,000-step goal**.
     * **Average sleep duration is below 480 minutes (8 hours) every day**, highlighting a consistent shortfall in recommended sleep.
 
-4. Relationship Between Activity and Sleep 💤🏃‍♀️
+4. Relationship Between Activity and Sleep
 
     * Days with higher average step counts tend to be followed by longer total time in bed, indicating a **positive relationship between physical activity and rest**.
 
     * This pattern suggests that users may **compensate increased activity with extended recovery periods**, offering opportunities for **personalized wellness recommendations** that balance daily movement and sleep quality.
 
-5. Average Steps per User 👣
+5. Average Steps per User
 
     * Out of 33 users, **7 exceed 10,000 steps** and **14 exceed 8,000 steps**, showing that **less than half of users reach the level suggested by research for health benefits**.
 
     * This highlights that while some users are highly active, **most are below the recommended daily activity thresholds**, indicating potential opportunities for engagement or personalized activity goals.
 
-6. Lightly Active Minutes by Weekday 🌞
+6. Lightly Active Minutes by Weekday
 
     * **Fridays and Saturdays show higher lightly active minutes**, suggesting that users tend to be more active during the end of the workweek. This can be seen as a **positive indicator of weekend engagement in physical activity**, which could be leveraged for **targeted wellness tips or reminders** to maintain consistent activity throughout the week.
 
 ## **8 Recommendations Based on Key Findings**💡
 
-1. Increase Data Sample Size 📊
+1. Increase Data Sample Size
 
     * The current dataset includes only 33 users, which limits the ability to generalize insights.
 
     * Collecting data from more users over longer periods would improve the reliability of conclusions and allow detection of more nuanced patterns.
 
-2. Encourage Daily Activity 🚶‍♂️🏃‍♀️
+2. Encourage Daily Activity
 
     * Since 32% of activity records are sedentary and less than half of users meet the 8,000–10,000 step thresholds, consider strategies to motivate users to increase daily steps, such as personalized reminders, challenges, or gamification.
 
-3. Promote Consistent Sleep 😴🛌
+3. Promote Consistent Sleep
 
     * Average sleep is below 8 hours every day. Recommendations could include tips for better sleep routines or integrating sleep reminders based on activity levels.
 
-4. Leverage Positive Activity Patterns 🎉📈
+4. Leverage Positive Activity Patterns
 
     * Users are more lightly active on Fridays and Saturdays and tend to sleep more after highly active days.
 
     * Wellness programs could encourage weekend activities and personalized guidance on balancing activity and rest throughout the week.
 
-5. Personalized Engagement Opportunities 🧩💡
+5. Personalized Engagement Opportunities
 
     * Given that some users are highly active while others are not, segmenting users based on activity levels could help provide tailored recommendations for both activity and recovery.
 
