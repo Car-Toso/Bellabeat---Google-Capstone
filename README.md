@@ -5,19 +5,22 @@
 </p>
 
 
-# **Bellabeat – Google Data Analytics Capstone**
+# 🏃‍♀️💪⌚**Bellabeat – Google Data Analytics Capstone**
 
 This project was developed as part of the Google Data Analytics Capstone, with the objective of uncovering insights from smart device usage data to support Bellabeat’s mission of promoting women’s wellness.
 
 The analysis was performed in BigQuery and Tableau, following a structured end-to-end process:
 
-1. [Background Information](#1-background-information)
-2. [Data import and preparation](#2-data-import-and-preparation)
-3. [Data cleaning and transformation](#3-data-cleaning-and-transformation)
-4. [Feature creation and analysis](#4-feature-creation-and-analysis)
-5. [Data visualization](#5-data-visualization)
+1. [Background Information 📖](#1-background-information)
+2. [Data Import and Preparation 📂](#2-data-import-and-preparation)
+3. [Data Cleaning and Transformation 🧹](#3-data-cleaning-and-transformation)
+4. [Feature Creation and Analysis ⚙️](#4-feature-creation-and-analysis)
+5. [Data Visualization 📈](#5-data-visualization)
+6. [Dashboard Demo 🎬](#6-dashboard-demo)
+7. [Key findings ⭐](#7-key-findings)
+8. [Recommendations Based on Key Findings 💡](#8-recommendations-based-on-key-findings)
 
-## **1. Background Information**
+## **1. Background Information**📖
 
 Bellabeat, a manufacturer of health-focused tech products for women, is a small company with potential to expand in the global smart device market. Co-founder and Chief Creative Officer Urška Sršen believes analyzing activity data from their devices could reveal growth opportunities. The goal of this analysis is to examine the usage of one smart product to gain insights into consumer behavior, which will then guide the company’s marketing strategy.
 
@@ -42,7 +45,7 @@ The data for this case study comes from the [Fitbit Fitness Tracker Data](https:
 * Lack of additional context: The dataset does not include broader demographic or lifestyle variables, restricting analysis of factors influencing device usage.
 
 
-## **2. Data import and preparation**
+## **2. Data import and preparation**📂
 Three datasets were initially loaded into the workspace: dailyActivity_merged, sleepDay_merged, and weightLogInfo_merged.
 The daily activity dataset was successfully imported using automatic data type recognition, as its structure and values were consistent across all columns.
 
@@ -55,7 +58,7 @@ This step was crucial to prepare a clean, well-structured base that allowed prop
  
 📝[View creation queries (BigQuery script)](Sql/1.views.sql)
 
-## **3. Data cleaning and transformation**
+## **3. Data cleaning and transformation**🧹
 The cleaning and transformation phase involved validating and improving the integrity of the datasets before analysis.  
 This process included:
 
@@ -75,7 +78,7 @@ This process included:
 
 📝 [Merge query (Activity + Sleep)](Sql/3.Join%20Tables.sql)
 
-## **4. Feature creation and analysis**
+## **4. Feature creation and analysis**⚙️
 
 * Categorized activity levels based on minutes of activity.
 
@@ -87,7 +90,7 @@ This process included:
 
 * Evaluated average sleep duration, which was found to be below the recommended threshold.
 
-## **5. Data visualization**
+## **5. Data visualization**📈
 
 Interactive charts were developed in Tableau to summarize insights:
 ### 1- Activity Category – Bar Chart
@@ -161,7 +164,7 @@ Interactive charts were developed in Tableau to summarize insights:
 </p>
 
 
-## 🎬 Dashboard Demo
+## **6. Dashboard Demo**🎬
 
 <p align="center">
   <a href="https://youtu.be/-eGlYv5Gr4g">
@@ -170,8 +173,7 @@ Interactive charts were developed in Tableau to summarize insights:
 </p>
 
 
-
-## **6. Key findings**
+## **7. Key findings**⭐
 
 1. Activity Level vs % of Total Steps 🏃‍♂️
 
@@ -203,7 +205,7 @@ Interactive charts were developed in Tableau to summarize insights:
 
     * **Fridays and Saturdays show higher lightly active minutes**, suggesting that users tend to be more active during the end of the workweek. This can be seen as a **positive indicator of weekend engagement in physical activity**, which could be leveraged for **targeted wellness tips or reminders** to maintain consistent activity throughout the week.
 
-## **7 Recommendations Based on Key Findings**
+## **8 Recommendations Based on Key Findings**💡
 
 1. Increase Data Sample Size 📊
 
