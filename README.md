@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Car-Toso/Bellabeat---Google-Capstone">
-    <img src="Assets/Bellabeatc.svg" alt="Bellabeat Logo" width="300"/>
+    <img src="Assets/Bellabeatc.svg" alt="Bellabeat Logo" width="200"/>
   </a>
 </p>
 
@@ -11,14 +11,14 @@ This project was developed as part of the Google Data Analytics Capstone, with t
 
 The analysis was performed in BigQuery and Tableau, following a structured end-to-end process:
 
-1. [Background Information 📖](#1-background-information)
-2. [Data Import and Preparation 📂](#2-data-import-and-preparation)
-3. [Data Cleaning and Transformation 🧹](#3-data-cleaning-and-transformation)
-4. [Feature Creation and Analysis ⚙️](#4-feature-creation-and-analysis)
-5. [Data Visualization 📈](#5-data-visualization)
-6. [Dashboard Demo 🎬](#6-dashboard-demo)
-7. [Key findings ⭐](#7-key-findings)
-8. [Recommendations Based on Key Findings 💡](#8-recommendations-based-on-key-findings)
+1. [Background Information📖](#1-background-information)
+2. [Data Import and Preparation📂](#2-data-import-and-preparation)
+3. [Data Cleaning and Transformation🧹](#3-data-cleaning-and-transformation)
+4. [Feature Creation and Analysis⚙️](#4-feature-creation-and-analysis)
+5. [Data Visualization📈](#5-data-visualization)
+6. [Dashboard Demo🎬](#6-dashboard-demo)
+7. [Key findings⭐](#7-key-findings)
+8. [Recommendations Based on Key Findings💡](#8-recommendations-based-on-key-findings)
 
 ## **1. Background Information**📖
 
@@ -167,11 +167,19 @@ Interactive charts were developed in Tableau to summarize insights:
 ## **6. Dashboard Demo**🎬
 
 <p align="center">
-  <a href="https://youtu.be/-eGlYv5Gr4g">
-    <img src="Assets/BellabeatDashboard-gif.gif" alt="Bellabeat Dashboard Demo" width="800">
-  </a>
+  <img src="Assets/BellabeatDashboard-gif.gif" alt="Bellabeat Dashboard Demo" width="800">
 </p>
 
+<div style="text-align:center;">
+  <img src="Assets/Captura1.png" 
+       width="400" 
+       alt="imagen 1" 
+       style="display:block; margin: 0 auto 20px auto;">
+  <img src="Assets/Captura2.png" 
+       width="400" 
+       alt="imagen 2" 
+       style="display:block; margin: 0 auto 0 auto;">
+</div>
 
 ## **7. Key findings**⭐
 
