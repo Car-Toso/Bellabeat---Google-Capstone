@@ -56,7 +56,7 @@ These adjustments were later reflected during the creation of SQL views, which s
 
 This step was crucial to prepare a clean, well-structured base that allowed proper joining of tables and accurate aggregation during later analysis stages.
  
-📝[View creation queries (BigQuery script)](Sql/1.views.sql)
+📝[View creation queries (BigQuery script)](Sql/1.Views.sql)
 
 ## **3. Data cleaning and transformation**🧹
 The cleaning and transformation phase involved validating and improving the integrity of the datasets before analysis.  
