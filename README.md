@@ -5,7 +5,7 @@
 </p>
 
 
-# 🏃‍♀️💪⌚**Bellabeat – Google Data Analytics Capstone**
+# 🏃‍♀️💪⌚**Bellabeat-Customer-Behavior-Analysis**
 
 This project was developed as part of the Google Data Analytics Capstone, with the objective of uncovering insights from smart device usage data to support Bellabeat’s mission of promoting women’s wellness.
 
