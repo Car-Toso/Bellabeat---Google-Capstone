@@ -7,6 +7,9 @@
 
 # 🏃‍♀️💪⌚**Customer-Behavior-and-Engagement-Analytics**
 
+![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
+![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
+
 This project was developed as part of the Google Data Analytics Capstone, with the objective of uncovering insights from smart device usage data to support Bellabeat’s mission of promoting women’s wellness.
 
 The analysis was performed in BigQuery and Tableau, following a structured end-to-end process:
