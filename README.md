@@ -5,7 +5,7 @@
 </p>
 
 
-# 🏃‍♀️💪⌚**Bellabeat-Customer-Behavior-Analysis**
+# 🏃‍♀️💪⌚**Customer-Behavior-and-Engagement-Analytics**
 
 This project was developed as part of the Google Data Analytics Capstone, with the objective of uncovering insights from smart device usage data to support Bellabeat’s mission of promoting women’s wellness.
 
@@ -14,7 +14,7 @@ The analysis was performed in BigQuery and Tableau, following a structured end-t
 1. [Background Information📖](#1-background-information)
 2. [Data Import and Preparation📂](#2-data-import-and-preparation)
 3. [Data Cleaning and Transformation🧹](#3-data-cleaning-and-transformation)
-4. [Feature Creation and Analysis⚙️](#4-feature-creation-and-analysis)
+4. [Feature Creation and Analysis⚙️](#4-feature-creation-and-analysis️)
 5. [Data Visualization📈](#5-data-visualization)
 6. [Dashboard Demo🎬](#6-dashboard-demo)
 7. [Key findings⭐](#7-key-findings)
